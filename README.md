@@ -47,3 +47,12 @@
    8- Basculement vers mysql : 
   
   ![J2EEClient5](https://github.com/Bouchghel/RepBackend/blob/main/images/c4.PNG)
+
+   9- Les interfaces de l'application :
+
+   ![J2EEClient5](https://github.com/Bouchghel/RepBackend/blob/main/images/c13.PNG)
+
+   ![J2EEClient5](https://github.com/Bouchghel/RepBackend/blob/main/images/c14.PNG)
+
+   ![J2EEClient5](https://github.com/Bouchghel/RepBackend/blob/main/images/c15.PNG)
+  
